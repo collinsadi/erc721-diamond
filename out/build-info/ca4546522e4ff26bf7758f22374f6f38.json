@@ -1,0 +1,1 @@
+{"id":"ca4546522e4ff26bf7758f22374f6f38","source_id_to_path":{"0":"contracts/facets/ERC20Facet.sol","1":"contracts/interfaces/IDiamondCut.sol","2":"contracts/interfaces/IERC20ErrorsEvents.sol","3":"contracts/libraries/LibDiamond.sol"},"language":"Solidity"}

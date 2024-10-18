@@ -1,0 +1,1 @@
+{"id":"02be7c88f59adb8b4afd83179c4eb99d","source_id_to_path":{"0":"contracts/facets/OwnershipFacet.sol","1":"contracts/interfaces/IDiamondCut.sol","2":"contracts/interfaces/IERC173.sol","3":"contracts/libraries/LibDiamond.sol"},"language":"Solidity"}
